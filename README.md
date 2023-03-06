@@ -1,4 +1,4 @@
-[![MasterHead](https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg)]
+![MasterHead](https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg)
 <h1 align="center">Hi 👋, I'm Alin Jeni C</h1>
 <h3 align="center">Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/10549/screenshots/9890798/media/f38f0e4d71d9763c7533641d2418b35b.png">
