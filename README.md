@@ -9,7 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=alinjeni&label=Profile%20views&color=0e75b6&style=flat" alt="alinjeni" />
 </p>
 
-- 🌍 Based in **Dubai, UAE**
 - 🛠️ Currently working on **.NET Core + Dapper + SQL Server** academic platforms  
 - 💻 Proficient in **Java**, **Spring Boot**, **React**, **Node.js**, **Python**, **SQL**
 - 🎯 Passionate about building scalable, maintainable systems  
