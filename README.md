@@ -23,21 +23,21 @@
 
 ## 💼 Experience
 
-### Software Developer — Logan Fintech *(May 2026 – Present)*
+### Software Developer - Logan Fintech *(May 2026 – Present)*
 - Develop and maintain full-stack applications using **Django, FastAPI, React.js, PostgreSQL**
 - Design and optimize REST APIs
 - Containerize applications with Docker
 - Configure and deploy applications using Nginx
 - Build scalable and maintainable software solutions
 
-### Full Stack Developer — ComplianceMedQRA *(Nov 2025 – Feb 2026)*
+### Full Stack Developer - ComplianceMedQRA *(Nov 2025 – Feb 2026)*
 - Built responsive applications with **React.js & Next.js**
 - Developed backend APIs using **Django & Django REST Framework**
 - Integrated PostgreSQL databases
 - Created reusable Material UI components
 - Worked with Git and Agile methodologies
 
-### Software Engineer — OneBill Software *(May 2023 – Jun 2025)*
+### Software Engineer - OneBill Software *(May 2023 – Jun 2025)*
 - Developed enterprise applications using Java and SQL
 - Built REST APIs using Java and Node.js
 - Automated internal workflows using Python
