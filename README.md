@@ -1,7 +1,6 @@
-![MasterHead](https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg)
+# Hi 👋, I'm Alin Jeni C
 
-<h1 align="center">Hi 👋, I'm Alin Jeni C</h1>
-<h3 align="center">🚀 Full Stack Developer | Java | MERN | .NET Core</h3>
+<h3 align="center">🚀 Full Stack Software Developer | Django • FastAPI • React • .NET • Java</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/10549/screenshots/9890798/media/f38f0e4d71d9763c7533641d2418b35b.png">
 
@@ -9,47 +8,158 @@
   <img src="https://komarev.com/ghpvc/?username=alinjeni&label=Profile%20views&color=0e75b6&style=flat" alt="alinjeni" />
 </p>
 
-- 🛠️ Currently working on **.NET Core + Dapper + SQL Server** academic platforms  
-- 💻 Proficient in **Java**, **Spring Boot**, **React**, **Node.js**, **Python**, **SQL**
-- 🎯 Passionate about building scalable, maintainable systems  
-- 📫 Reach me at **alinjenic@gmail.com**
-- 📄 [Check out my Resume](mailto:alinjenic@gmail.com?subject=Resume%20Request)
+## 👨‍💻 About Me
+
+- 💼 Software Developer at **Logan Fintech** (Remote)
+- 🌱 Building scalable web applications using **Django, FastAPI, React.js, PostgreSQL, Docker & Nginx**
+- 💻 Experienced in **Java, Python, C#, JavaScript, TypeScript, React, Spring Boot, ASP.NET Core MVC**
+- 🚀 Passionate about clean architecture, REST APIs, performance optimization, and scalable backend systems
+- 🤝 Enjoy collaborating in Agile teams and solving real-world engineering problems
+- 📫 **Email:** alinjenic@gmail.com
+- 💼 **LinkedIn:** https://linkedin.com/in/alinjeni
+- 💻 **GitHub:** https://github.com/alinjeni
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-  <a href="https://linkedin.com/in/alinjeni" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alin-jeni" height="30" width="40" />
-  </a>
-  <a hr
+## 💼 Experience
+
+### Software Developer — Logan Fintech *(May 2026 – Present)*
+- Develop and maintain full-stack applications using **Django, FastAPI, React.js, PostgreSQL**
+- Design and optimize REST APIs
+- Containerize applications with Docker
+- Configure and deploy applications using Nginx
+- Build scalable and maintainable software solutions
+
+### Full Stack Developer — ComplianceMedQRA *(Nov 2025 – Feb 2026)*
+- Built responsive applications with **React.js & Next.js**
+- Developed backend APIs using **Django & Django REST Framework**
+- Integrated PostgreSQL databases
+- Created reusable Material UI components
+- Worked with Git and Agile methodologies
+
+### Software Engineer — OneBill Software *(May 2023 – Jun 2025)*
+- Developed enterprise applications using Java and SQL
+- Built REST APIs using Java and Node.js
+- Automated internal workflows using Python
+- Optimized SQL stored procedures
+- Worked closely with QA, Product and Support teams
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+
+### Backend
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![ASP.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+
+### Database & DevOps
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 Faculty-Student Assignment & Assessment Portal
+- ASP.NET Core MVC
+- Dapper ORM
+- SQL Server
+- Bootstrap
+- Chart.js
+
+Features:
+- Role-based authentication
+- Assignment management
+- Student submissions
+- Performance dashboard
+- Optimized stored procedures
+
+---
+
+### 🖼 Image Gallery Management System
+
+- Node.js
+- Express
+- Docker
+- DynamoDB
+- Bootstrap
+
+Features:
+- Image upload & management
+- REST APIs
+- Docker Compose setup
+- Metadata management
+
+---
+
+### 🐦 X (Twitter) Clone
+
+- MERN Stack
+- JWT Authentication
+- React
+- MongoDB
+- Express
+- Node.js
+
+Features:
+- Authentication
+- User profiles
+- Posts
+- Responsive UI
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alinjeni&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alinjeni&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinjeni&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/></a>
-</p>
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alinjeni)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/alinjeni)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:alinjenic@gmail.com)
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alinjeni&show_icons=true&locale=en&layout=compact" alt="alinjeni" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alinjeni&show_icons=true&locale=en" alt="alinjeni" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alinjeni&" alt="alinjeni" /></p>
+> *"Building scalable software with clean architecture, efficient APIs, and intuitive user experiences."*
