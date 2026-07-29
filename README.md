@@ -2,7 +2,7 @@
 
 <h3 align="center">🚀 Full Stack Software Developer | Django • FastAPI • React • .NET • Java</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/10549/screenshots/9890798/media/f38f0e4d71d9763c7533641d2418b35b.png">
+<img align="center" alt="Coding" src="https://cdn.dribbble.com/users/10549/screenshots/9890798/media/f38f0e4d71d9763c7533641d2418b35b.png">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=alinjeni&label=Profile%20views&color=0e75b6&style=flat" alt="alinjeni" />
